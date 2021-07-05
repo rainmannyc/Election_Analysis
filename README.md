@@ -30,7 +30,7 @@ We can also see clearly from the data, Diana DeGette has received a substantial 
 * Winning Vote Count: 272,892
 * Winning Percentage: 73.8%
 
-### **Conclusive Summary for the Commission**))
+### **Conclusive Summary for the Commission**
 
 In conclusion, the code can be repurposed for larger data sets for example if the election was nationwide. We can repurpose the code to edit and update data with even more states or candidates. We can do this by simply adding new lists or dictionaries to the script to collect more information from different categories.
 
