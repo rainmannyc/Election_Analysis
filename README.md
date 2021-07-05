@@ -1,6 +1,6 @@
 # **Election_Analysis**
 
-##**Overview**
+## **Overview**
 
     The purpose of the analysis was to audit election data from a Colorado election. The election commission has requested some additional data from our current audit. The main additional key elements were:
 
@@ -10,11 +10,11 @@
 
     This means our assigment consisted of writing a code capable of collecting data from the election "csv." file and extracting the data onto a separate text file for the election commission to easily view. 
 
-###**Election-Audit Result Analysis**
+### **Election-Audit Result Analysis**
 
     For the election, the total number of votes amounted to 369,711 votes. From the data sheet, we were able to extract data for each individual County. We can see in the list below, the County which received the highest number of votes and contributed to the highest percentage of votes was Denver, followed by Jefferson, and Arapahoe.
 
-  **1. Denver: 82.8% (306,055)**
+    1. Denver: 82.8% (306,055)
     2. Jefferson: 10.5% (38,855)
     3. Arapahoe: 6.7% (24,801)
 
@@ -30,12 +30,15 @@
     * Winning Vote Count: 272,892
     * Winning Percentage: 73.8%
 
-###**Conclusive Summary for the Commission**))
+### **Conclusive Summary for the Commission**))
 
     In conclusion, the code can be repurposed for larger data sets for example if the election was nationwide. We can repurpose the code to edit and update data such and more adding more states or candidates. We can do this by simply adding new lists or dictionaries to the script.
 
-    image:
-
+    ![Image of ListDict](https://github.com/rainmannyc/election_analysis/blob/589c8c7c0dca027ab56cbab9ee6b290dccf43206/ListandDictEdits.png)
+    
+    
+  
     This particular code can also be ran with possibly little to no edits if the data sheet we're collecting information from has the same categories and format. However, we may also add more rows or columns to iterate pass as well if we'd like to add more script, which can be done by tweaking or editing a few lines of code as shown below:
 
-    image:
+    ![Image of CollectProcess](https://github.com/rainmannyc/election_analysis/blob/589c8c7c0dca027ab56cbab9ee6b290dccf43206/CollectProcessMore.png)
+)
