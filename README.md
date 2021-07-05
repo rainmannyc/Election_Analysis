@@ -32,14 +32,12 @@ We can also see clearly from the data, Diana DeGette has received a substantial 
 
 ### **Conclusive Summary for the Commission**))
 
-In conclusion, the code can be repurposed for larger data sets for example if the election was nationwide. We can repurpose the code to edit and update data such and more adding more states or candidates. We can do this by simply adding new lists or dictionaries to the script.
+In conclusion, the code can be repurposed for larger data sets for example if the election was nationwide. We can repurpose the code to edit and update data with even more states or candidates. We can do this by simply adding new lists or dictionaries to the script to collect more information from different categories.
 
 ![Image of ListDict](https://github.com/rainmannyc/election_analysis/blob/589c8c7c0dca027ab56cbab9ee6b290dccf43206/ListandDictEdits.png)
-    
-    
   
-This particular code can also be ran with possibly little to no edits if the data sheet we're collecting information from has the same categories and format. However, we may also add more rows or columns to iterate pass as well if we'd like to add more script, which can be done by tweaking or editing a few lines of code as shown below:
+We may also add more rows or columns to iterate pass as well if we'd like to add different information to the script, which can be done by tweaking or editing a few lines of code as shown below:
 
 ![Image of CollectProcess](https://github.com/rainmannyc/election_analysis/blob/589c8c7c0dca027ab56cbab9ee6b290dccf43206/CollectProcessMore.png)
 
-
+I also believe we should be able to output the data on different excel type files as well, converting the file and even possibly making a graph and chart to show data trends. 
