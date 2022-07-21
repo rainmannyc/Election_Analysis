@@ -1,6 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""PyPoll Homework Challenge Solution."""
-
 # Add our dependencies.
 import csv
 import os
@@ -154,3 +151,5 @@ with open(file_to_save, "w") as txt_file:
 
     # Save the winning candidate's name to the text file
     txt_file.write(winning_candidate_summary)
+
+print(election_results)
